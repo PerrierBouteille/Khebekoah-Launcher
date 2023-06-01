@@ -3,7 +3,7 @@
     "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
     "online": true,
     "client_id": "",
-    "game_version": "1.19.2",
+    "game_version": "1.8.9",
     "verify": false,
     "java": true,
     "game_args": [],
@@ -15,8 +15,8 @@
         "enable": true
     },
     "status": {
-        "nameServer": "le nom de votre server",
-        "ip": "127.0.0.1",
+        "nameServer": "Hypixel",
+        "ip": "mc.hypixel.net",
         "port": 25565
     }
 }
