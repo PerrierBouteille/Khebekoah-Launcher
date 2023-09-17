@@ -1,7 +1,7 @@
 [
   {"path":"launcher_profiles.json","size":6,"sha1":"11ae40f7cd1a922c6e3f529b803e43bd74bcf676","url":"http://jspabcdef.infinityfreeapp.com/files/files/launcher_profiles.json","type":"FILE"},
   {"path":"minecraft-java-core.zip","size":52190,"sha1":"878b0f6091f991b36d072707edf45ccbb55d321b","url":"http://jspabcdef.infinityfreeapp.com/files/files/minecraft-java-core.zip","type":"FILE"},
-  {"path":"mods/Block_Overlay_4.0.3.jar","size":61759,"sha1":"48dd8d27ce4179ac320489eeaaa0e3cc9520cfb7","url":"http://jspabcdef.infinityfreeapp.com/files/files/mods/Block_Overlay_4.0.3.jar","type":"FILE"},
+  {"path":"Block_Overlay_4.0.3.jar","size":61759,"sha1":"48dd8d27ce4179ac320489eeaaa0e3cc9520cfb7","url":"http://jspabcdef.infinityfreeapp.com/files/files/mods/Block_Overlay_4.0.3.jar","type":"FILE"},
   {"path":"mods/OptiFine_1.8.9_HD_U_L5.jar","size":2517183,"sha1":"dcab4849a24ccad5a6a3496c67bc5a88411d2a35","url":"http://jspabcdef.infinityfreeapp.com/files/files/mods/OptiFine_1.8.9_HD_U_L5.jar","type":"MOD"},
   {"path":"mods/SimpleTogglesprint-1.2.jar","size":11222,"sha1":"bef6c92c079a6b27f67f86ce52c994176428035e","url":"http://jspabcdef.infinityfreeapp.com/files/files/mods/SimpleTogglesprint-1.2.jar","type":"MOD"},
   {"path":"mods/betterchat-1.5.jar","size":998748,"sha1":"ea8b9a98c8df2aa39b589284640105bd8ac989f7","url":"http://jspabcdef.infinityfreeapp.com/files/files/mods/betterchat-1.5.jar","type":"MOD"},
